@@ -1,9 +1,0 @@
-mv estilo.css css/
-mv main.css css/
-
-<link rel="stylesheet" href="estilo.css">
-<link rel="stylesheet" href="css/estilo.css">
-git add css/           # Adiciona a nova pasta
-git add *.html         # Atualiza os arquivos HTML modificados
-git commit -m "Reorganização: movendo arquivos CSS para a pasta /css"
-git push origin main   # (ou "master", se for um repositório antigo)
