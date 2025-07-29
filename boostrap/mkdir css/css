@@ -2,3 +2,4 @@ mv estilo.css css/
 mv main.css css/
 
 <link rel="stylesheet" href="estilo.css">
+<link rel="stylesheet" href="css/estilo.css">
